@@ -2,13 +2,6 @@
 
 Sistem kontrol dan monitoring berbasis Computer Vision untuk Robot Pemadam Api (Firefighter Robot) yang menggunakan komunikasi MQTT. Proyek ini menggabungkan logika pendeteksian api menggunakan kamera (Python/OpenCV) dengan kontrol gerak robot (Arduino/ESP).
 
-<<<<<<< HEAD
-=======
-
-![Uploading robot.jpg…]()
-
->>>>>>> b5d1c3b83cd7ea33b9facd18db3045a31ed17d27
->>>>>>>
 ## 📋 Fitur Utama
 
 - **Real-time Monitoring & HUD**: Tampilan antarmuka futuristik (Heads-up Display) yang menampilkan status robot, status koneksi MQTT, dan nilai sensor.

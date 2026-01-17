@@ -1,4 +1,7 @@
 # Line Following Firefighter Robot - Control System
+## 📸 Foto Robot
+
+![Robot Firefighter](robot.jpg)
 
 Sistem kontrol dan monitoring berbasis Computer Vision untuk Robot Pemadam Api (Firefighter Robot) yang menggunakan komunikasi MQTT. Proyek ini menggabungkan logika pendeteksian api menggunakan kamera (Python/OpenCV) dengan kontrol gerak robot (Arduino/ESP).
 
@@ -89,6 +92,4 @@ Sistem menggunakan ruang warna **HSV** untuk mengisolasi warna api (Kuning-Merah
 
 Silakan fork repository ini dan buat Pull Request untuk fitur atau perbaikan bug.
 
-## 📸 Foto Robot
 
-![Robot Firefighter](robot.jpg)
